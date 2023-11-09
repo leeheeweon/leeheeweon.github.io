@@ -21,8 +21,8 @@ RSS: false
 weibo_username:     wzb1994
 zhihu_username:     zongguanxian
 github_username:    leeheeweon
-# facebook_username:  username
-# jianshu_username:   jianshu_id
+facebook_username:  username
+jianshu_username:   jianshu_id
 twitter_username:   wzbcode
 
 
@@ -91,7 +91,7 @@ service-worker: true
 
 # Friends
 friends: [
-{title: "kaoni",href: "https://www.kaoni.com/"}
+{title: "Kaoni",href: "https://www.kaoni.com/"}
 ]
 
 
