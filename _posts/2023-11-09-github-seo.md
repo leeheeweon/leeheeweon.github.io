@@ -56,15 +56,15 @@ Sitemap: https://eona1301.github.io/sitemap.xml
 ~~~
 
 ## 3. Google search Cosole 등록
-![google1.png](..%2Fimg%2Fpost%2F2023-11-09%2Fgoogle1.png)
+![google1.png](/img/post/2023-11-09/google1.png)
 **github pages url을 사용함으로 url로 등록**
 
-![google2.png](..%2Fimg%2Fpost%2F2023-11-09%2Fgoogle2.png)
+![google2.png](/img/post/2023-11-09/google2.png)
 **만든 sitemap.xml 등록**
 
 ## 4. Naver Search Advisor
-![naver-search1.png](..%2Fimg%2Fpost%2F2023-11-09%2Fnaver-search1.png)
+![naver-search1.png](/img/post/2023-11-09/naver-search1.png)
 **github blog url 입력** 
 
-![naver-search2.png](..%2Fimg%2Fpost%2F2023-11-09%2Fnaver-search2.png)
+![naver-search2.png](/img/post/2023-11-09/naver-search2.png)
 **만든 sitemap.xml 등록**
