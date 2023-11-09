@@ -11,7 +11,7 @@ tags:
 ---
 
 ## 1. sitemap.xml 만들기
-~~~html
+~~~text
 ---
 layout: null
 ---
