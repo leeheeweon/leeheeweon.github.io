@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-11-09-github-seo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-11-09/google1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-11-09/google2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-11-09/naver-search1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-11-09/naver-search2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699487488706</updated>
       <workItem from="1699487491169" duration="7709000" />
-      <workItem from="1699495466515" duration="14714000" />
+      <workItem from="1699495466515" duration="15824000" />
     </task>
     <servers />
   </component>
