@@ -48,7 +48,7 @@ layout: null
 **주의! 사이트맵 코드 들여쓰기 한번더 확인하기**
 
 ## 2. robots.txt만들기
-~~~markdown
+~~~text
 User-agent: *
 Allow: /
 
