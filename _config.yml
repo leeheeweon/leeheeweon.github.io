@@ -56,13 +56,13 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 808b97b9475824b9a28f                            #生成的clientID
-  clientSecret: a909c92f9a2b4233305e29d8e8dd84aab75a5bc9    #生成的clientSecret
-  repo: leeheeweon.github.io    #仓库名称
-  owner: leeheeweon    #github用户名
+  enable: true
+  clientID: 808b97b9475824b9a28f
+  clientSecret: a909c92f9a2b4233305e29d8e8dd84aab75a5bc9
+  repo: leeheeweon.github.io
+  owner: leeheeweon
   admin: leeheeweon
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: true
 
 
 # 统计
@@ -77,8 +77,8 @@ gitalk:
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-tags: true
+featured-condition-size: 1
 
 
 # Progressive Web Apps
