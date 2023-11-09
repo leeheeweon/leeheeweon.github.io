@@ -11,40 +11,40 @@ tags:
 ---
 
 ## 1. sitemap.xml 만들기
-~~~text
----
+
+<pre class=" language-xml"><code class=" language-xml">---
 layout: null
 ---
 
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<span class="token prolog">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>urlset</span> <span class="token attr-name"><span class="token namespace">xmlns:</span>xsi</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>http://www.w3.org/2001/XMLSchema-instance<span class="token punctuation">"</span></span>
+        <span class="token attr-name"><span class="token namespace">xsi:</span>schemaLocation</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd<span class="token punctuation">"</span></span>
+        <span class="token attr-name">xmlns</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>http://www.sitemaps.org/schemas/sitemap/0.9<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
     {% for post in site.posts %}
-    <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>url</span><span class="token punctuation">&gt;</span></span>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>loc</span><span class="token punctuation">&gt;</span></span>{{ site.url }}{{ post.url }}<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>loc</span><span class="token punctuation">&gt;</span></span>
         {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>lastmod</span><span class="token punctuation">&gt;</span></span>{{ post.date | date_to_xmlschema }}<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>lastmod</span><span class="token punctuation">&gt;</span></span>
         {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>lastmod</span><span class="token punctuation">&gt;</span></span>{{ post.lastmod | date_to_xmlschema }}<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>lastmod</span><span class="token punctuation">&gt;</span></span>
         {% endif %}
 
         {% if post.sitemap.changefreq == null %}
-        <changefreq>weekly</changefreq>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>changefreq</span><span class="token punctuation">&gt;</span></span>weekly<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>changefreq</span><span class="token punctuation">&gt;</span></span>
         {% else %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>changefreq</span><span class="token punctuation">&gt;</span></span>{{ post.sitemap.changefreq }}<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>changefreq</span><span class="token punctuation">&gt;</span></span>
         {% endif %}
 
         {% if post.sitemap.priority == null %}
-        <priority>0.5</priority>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>priority</span><span class="token punctuation">&gt;</span></span>0.5<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>priority</span><span class="token punctuation">&gt;</span></span>
         {% else %}
-        <priority>{{ post.sitemap.priority }}</priority>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>priority</span><span class="token punctuation">&gt;</span></span>{{ post.sitemap.priority }}<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>priority</span><span class="token punctuation">&gt;</span></span>
         {% endif %}
 
-    </url>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>url</span><span class="token punctuation">&gt;</span></span>
     {% endfor %}
-</urlset>
-~~~
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>urlset</span><span class="token punctuation">&gt;</span></span></code></pre>
+
 **주의! 사이트맵 코드 들여쓰기 한번더 확인하기**
 
 ## 2. robots.txt만들기
