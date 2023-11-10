@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-30-object2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2021-08-30/object2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-08-31-object3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2021-08-31/object3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Study/leeheeweon.github.io/img/post/2021-08-30",
+    "last_opened_file_path": "D:/Study/leeheeweon.github.io/img/post/2021-08-31",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,11 +52,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Study\leeheeweon.github.io\img\post\2021-08-30" />
+      <recent name="D:\Study\leeheeweon.github.io\img\post\2021-08-31" />
       <recent name="D:\Study\leeheeweon.github.io\_posts" />
+      <recent name="D:\Study\leeheeweon.github.io\img\post\2021-08-30" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2021-08-25" />
       <recent name="D:\Study\leeheeweon.github.io" />
-      <recent name="D:\Study\leeheeweon.github.io\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Study\leeheeweon.github.io\img" />
@@ -76,7 +76,7 @@
       <workItem from="1699495466515" duration="17953000" />
       <workItem from="1699520470541" duration="392000" />
       <workItem from="1699572754618" duration="5234000" />
-      <workItem from="1699595606260" duration="2834000" />
+      <workItem from="1699595606260" duration="3998000" />
     </task>
     <servers />
   </component>
