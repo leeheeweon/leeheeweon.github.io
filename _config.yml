@@ -1,7 +1,7 @@
 # Site settings
 title: Warner's Blog
 SEOTitle: 워너블로그
-header-img: img/post-bg-index.jpg
+header-img: img/bg/post-bg-index.jpg
 email: ggoddii@naver.com
 description: "be (생각) 먼저 성공한 개발자가 되고 do (행동) 성공한 개발자처럼 행동하면 have (결과) 얻을것이다."
 keyword: "워너, Warner, 개발자블로그, Java"
