@@ -51,7 +51,7 @@ jekyll -v
 저장을 원하는 위치로 이동해서 마우스 우클릭 gitbash 를 열어준다.
 
 git clone 복사된 ssh 입력
-~~~git
+~~~markdown
  git clone git@github.com:leeheeweon/leeheeweon.github.io.git
 ~~~
 ![clone2.png](/img/post/2023-11-10/clone2.png)
