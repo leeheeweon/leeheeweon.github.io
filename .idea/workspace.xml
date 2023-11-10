@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-11-10-start-github-blog.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-11-10/github1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-11-10/github2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-11-10/github3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-11-10/github4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-11-10/github5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-11-10/github6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg/blog-SpringMVC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/internet/env_binhai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/internet/home_banner_ali.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/internet/tencent.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/internet/今日头条.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/internet/字节跳动.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/internet/抖音短视频.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-10-start-github-blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-10-start-github-blog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +71,7 @@
       <workItem from="1699487491169" duration="7709000" />
       <workItem from="1699495466515" duration="17953000" />
       <workItem from="1699520470541" duration="392000" />
-      <workItem from="1699572754618" duration="4810000" />
+      <workItem from="1699572754618" duration="5078000" />
     </task>
     <servers />
   </component>

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: GitHub Blog 시작
+title: GitHub Blog 시작하기 - 1
 subtitle: GitHub Blog란,  GitHub Blog 선택이유
-date: 2023-11-09
+date: 2023-11-10
 author: Warner
 header-img: img/bg/home-bg-o.jpg
 catalog: true
@@ -58,4 +58,5 @@ GitHub Blog가 가장 개발자 스럽다고 느꼈다.
 ![github6.png](/img/post/2023-11-10/github6.png)
 
 GitHub Blog의 기본 세팅이 끝났습니다.
+
 2편에서 계속
