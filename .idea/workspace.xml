@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2023-11-10-install-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-10-install-jekyll.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-08-25-object1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2021-08-25/object1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +35,25 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Study/leeheeweon.github.io&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Study/leeheeweon.github.io/img/post/2021-08-25",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\leeheeweon.github.io\img\post\2021-08-25" />
+      <recent name="D:\Study\leeheeweon.github.io\_posts" />
       <recent name="D:\Study\leeheeweon.github.io" />
       <recent name="D:\Study\leeheeweon.github.io\img" />
     </key>
@@ -71,7 +75,7 @@
       <workItem from="1699495466515" duration="17953000" />
       <workItem from="1699520470541" duration="392000" />
       <workItem from="1699572754618" duration="5234000" />
-      <workItem from="1699595606260" duration="1503000" />
+      <workItem from="1699595606260" duration="2360000" />
     </task>
     <servers />
   </component>
