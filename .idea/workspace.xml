@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-31-object3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2021-08-31/object3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-09-01-object4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2021-09-01/object4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-08-31-object3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-08-31-object3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Study/leeheeweon.github.io/img/post/2021-08-31",
+    "last_opened_file_path": "D:/Study/leeheeweon.github.io/img/post/2021-09-01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,11 +54,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Study\leeheeweon.github.io\img\post\2021-08-31" />
+      <recent name="D:\Study\leeheeweon.github.io\img\post\2021-09-01" />
       <recent name="D:\Study\leeheeweon.github.io\_posts" />
+      <recent name="D:\Study\leeheeweon.github.io\img\post\2021-08-31" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2021-08-30" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2021-08-25" />
-      <recent name="D:\Study\leeheeweon.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Study\leeheeweon.github.io\img" />
@@ -76,7 +78,7 @@
       <workItem from="1699495466515" duration="17953000" />
       <workItem from="1699520470541" duration="392000" />
       <workItem from="1699572754618" duration="5234000" />
-      <workItem from="1699595606260" duration="3998000" />
+      <workItem from="1699595606260" duration="6096000" />
     </task>
     <servers />
   </component>
