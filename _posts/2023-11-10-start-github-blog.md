@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub Blog 시작하기 - 1
+title: GitHub Blog-1 시작하기 
 subtitle: GitHub Blog란,  GitHub Blog 선택이유
 date: 2023-11-10
 author: Warner

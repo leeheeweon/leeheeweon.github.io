@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub Blog Jekyll 설치 및 GitHub Repository clone - 2
+title: GitHub Blog-2 Jekyll 설치 및 GitHub Repository clone 
 subtitle: Jekyll란,  GitHub Repository clone 
 date: 2023-11-10
 author: Warner
