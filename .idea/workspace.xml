@@ -5,42 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-11-09-github-seo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-09-github-seo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-11-09-markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-09-markdown.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/archive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/404-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/404-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog-SpringMVC.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/blog-SpringMVC.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg-o.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/home-bg-o.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-about-warner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-about-warner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-YesOrNo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-YesOrNo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-alibaba.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-alibaba.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-android.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-android.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-article.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-article.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-coffee.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-coffee.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-debug.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-debug.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-github-cup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-github-cup.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-hacker.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-hacker.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-iWatch.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-iWatch.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-index.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-index.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-keybord.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-keybord.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-map.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-map.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-miui-ux.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-miui-ux.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-miui6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-miui6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-os-metro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-os-metro.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-swift.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-swift.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-swift2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-swift2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-universe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-universe.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-unix-linux.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-bg-unix-linux.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-home-h5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/post-home-h5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/readme-home.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/readme-home.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/readme-side.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/readme-side.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tag-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg/tag-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offline.html" beforeDir="false" afterPath="$PROJECT_DIR$/offline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +65,7 @@
       <workItem from="1699487491169" duration="7709000" />
       <workItem from="1699495466515" duration="17953000" />
       <workItem from="1699520470541" duration="392000" />
-      <workItem from="1699572754618" duration="1857000" />
+      <workItem from="1699572754618" duration="1946000" />
     </task>
     <servers />
   </component>
