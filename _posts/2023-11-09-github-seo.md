@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Github Blog 검색창 노출시키기
+title:      Github Blog-3 검색창 노출시키기
 subtitle:   sitemap.xml, google search console, naver search advisor 사용 
 date:       2023-11-09
 author:     Warner
@@ -47,6 +47,9 @@ layout: null
 ~~~
 
 **주의! 사이트맵 코드 들여쓰기 한번더 확인하기**
+
+sitemap 자동화 코드
+![sitemap code.png](/img/post/2023-11-09/sitemap-code.png)
 
 ## 2. robots.txt만들기
 ~~~markdown
