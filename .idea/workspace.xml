@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-spring.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2023-11-15-JPA.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-15-JPA.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg/post-bg-jpa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg/post-bg-spring.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <workItem from="1699850966986" duration="1951000" />
       <workItem from="1699923126512" duration="3291000" />
       <workItem from="1699947579383" duration="2283000" />
-      <workItem from="1700006748977" duration="6175000" />
+      <workItem from="1700006748977" duration="6351000" />
     </task>
     <servers />
   </component>
