@@ -4,7 +4,7 @@ title: Github Blog-3 검색창 노출시키기
 subtitle: sitemap.xml, google search console, naver search advisor 사용
 date: 2023-11-09
 author: Warner
-header-img: img/bg/post-bg-keybord.jpg
+header-img: img/bg/post-bg-github-cup.jpg
 catalog: true
 tags:
   - Github 

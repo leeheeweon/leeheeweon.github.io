@@ -4,7 +4,7 @@ title: GitHub Blog-1 시작하기
 subtitle: GitHub Blog란,  GitHub Blog 선택이유
 date: 2023-11-10
 author: Warner
-header-img: img/bg/home-bg-o.jpg
+header-img: img/bg/post-bg-github-cup.jpg
 catalog: true
 tags:
   - Github
