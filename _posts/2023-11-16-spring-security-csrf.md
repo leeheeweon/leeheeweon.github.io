@@ -33,14 +33,14 @@ tags:
 
 ## CSRF 보호 구성 요소 이해
 
-![csrf1.png]( /img/post/2023-11-16csrf1.png)
+![csrf1.png]( /img/post/2023-11-16/csrf1.png)
 
 CSRF 보호는 두 부분으로 나누어진다.
 
 1. CsrfToken에 위임하여 애플리케이션에서 을 사용, CsrfTokenRequestHandler.
 2. 요청에 CSRF 보호가 필요한지 확인하고 토큰을 로드 및 검증한 후AccessDeniedException .
 
-![csrf-processing.png]( /img/post/2023-11-16csrf-processing.png)
+![csrf-processing.png]( /img/post/2023-11-16/csrf-processing.png)
 
 ## CSRF Token
 
@@ -88,7 +88,7 @@ public class SecurityConfig {
 
 HTTP 요청 헤더 또는 요청 매개변수 HttpSessionCsrfTokenRepository에서 토큰을 확인 . \
 X-CSRF-TOKEN_csrf
-![csrf-token.png]( /img/post/2023-11-16csrf-token.png)
+![csrf-token.png]( /img/post/2023-11-16/csrf-token.png)
 
 ## CSRF TOKEN 자동 포함 
 - Spring’s form tag library(스프링 폼태그 라이브러ㅣ)
