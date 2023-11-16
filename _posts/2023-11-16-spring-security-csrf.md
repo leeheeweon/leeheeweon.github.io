@@ -91,7 +91,7 @@ X-CSRF-TOKEN_csrf
 ![csrf-token.png]( /img/post/2023-11-16/csrf-token.png)
 
 ## CSRF TOKEN 자동 포함 
-- Spring’s form tag library(스프링 폼태그 라이브러ㅣ)
+- Spring’s form tag library(스프링 폼태그 라이브러리)
 - Thymeleaf(타임리프)
 - Any other view technology that integrates with RequestDataValueProcessor (via CsrfRequestDataValueProcessor) (기타 뷰)
 - You can also include the token yourself via the csrfInput tag(csrf 태그를 통해 직접 포함 가능)
