@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="" />
+    <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-15-JPA.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-15-JPA.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +81,7 @@
       <workItem from="1699947579383" duration="2283000" />
       <workItem from="1700006748977" duration="9387000" />
       <workItem from="1700023438116" duration="1388000" />
-      <workItem from="1700092820594" duration="4174000" />
+      <workItem from="1700092820594" duration="4289000" />
     </task>
     <servers />
   </component>
