@@ -4,7 +4,7 @@ title: Spring Session - DB에 세션 저장 방식(JDBC)
 subtitle: 스프링 세션 jdbc
 date: 2023-11-16
 author: Warner
-header-img: img/bg/post-bg-earth.jpg
+header-img: img/bg/post-bg-earth.png
 catalog: true
 tags:
   - Spring
