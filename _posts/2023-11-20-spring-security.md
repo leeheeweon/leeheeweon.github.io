@@ -30,7 +30,7 @@ Spring Security는 **인증, 권한 부여 및 일반적인 악용**에 대한 �
 
 ## 아키텍쳐
 
-![multi-securityfilterchain.png](..%2Fimg%2Fpost%2F2023-11-20%2Fmulti-securityfilterchain.png)
+![multi-securityfilterchain.png](/img/post/2023-11-20/multi-securityfilterchain.png)
 
 1. 필터검토
 2. 필터프록시 위임
