@@ -4,7 +4,7 @@ title: 완벽한 IT 인프라 구축을 위한 Kubernetes - 용어정리
 subtitle: Kubernetes
 date: 2023-11-22
 author: Warner
-header-img: img/bg/post-bg-kubernetes.jpg
+header-img: img/bg/post-bg-kubernetes.png
 catalog: true
 tags:
   - Kubernetes

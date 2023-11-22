@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-11-22-docker-theory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2023-11-22-kubenetes-theory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-docker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-kubernetes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-11-22/pod.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-22-docker-theory.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-22-docker-theory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-22-kubenetes-theory.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-22-kubenetes-theory.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +91,7 @@
       <workItem from="1700439675936" duration="8062000" />
       <workItem from="1700523796264" duration="2378000" />
       <workItem from="1700550075529" duration="1196000" />
-      <workItem from="1700609691073" duration="2135000" />
+      <workItem from="1700609691073" duration="2305000" />
     </task>
     <servers />
   </component>

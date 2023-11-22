@@ -4,7 +4,7 @@ title: 완벽한 IT 인프라 구축을 위한 docker - 용어정리
 subtitle: docker
 date: 2023-11-22
 author: Warner
-header-img: img/bg/post-bg-docker.jpg
+header-img: img/bg/post-bg-docker.png
 catalog: true
 tags:
   - Docker
