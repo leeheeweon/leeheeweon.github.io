@@ -48,12 +48,6 @@ highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-
-
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: flyingwzb
-
 # Gitalk
 gitalk:
   enable: true
@@ -64,8 +58,6 @@ gitalk:
   admin: leeheeweon
   distractionFreeMode: true
 
-
-# 统计
 
 # Analytics settings
 # Baidu Analytics
