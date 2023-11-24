@@ -8,8 +8,9 @@
     header.intro-header{
         position: relative;
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
-        /*background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');*/
-        background: {{ page.header-bg-css }};
+        background-color: #000000;
+        opacity: 0.5;
+        z-index: -1;
     }
 
     {% if page.header-mask %}
