@@ -6,6 +6,8 @@ description: "be (생각) 먼저 성공한 개발자가 되고 do (행동) 성�
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
+        <div class="post-content-preview"  style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+        </div>
         <h2 class="post-title">
             {{ post.title }}
         </h2>
@@ -14,9 +16,9 @@ description: "be (생각) 먼저 성공한 개발자가 되고 do (행동) 성�
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        <div class="post-content-preview">
+        <!--<div class="post-content-preview">
             {{ post.content | strip_html | truncate:200 }}
-        </div>
+        </div>-->
     </a>
     <p class="post-meta">
         Posted by
