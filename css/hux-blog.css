@@ -1222,6 +1222,17 @@ samp {
 .post-content-preview:hover {
   color: #0085a1;
 }
+
+.post-content-bg {
+  top: 0;
+  bottom: 0;
+  width: 80%;
+  height: 200px;
+  cursor : pointer
+}
+.post-content-bg:hover {
+  opacity: 0.3;
+}
 @media only screen and (min-width: 768px) {
   .post-content-preview {
     font-size: 14px;
