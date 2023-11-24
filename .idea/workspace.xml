@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/intro-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/intro-header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/hux-blog.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.min.css" afterDir="false" />
     </list>
@@ -94,7 +93,7 @@
       <workItem from="1700550075529" duration="1196000" />
       <workItem from="1700609691073" duration="3056000" />
       <workItem from="1700640121576" duration="2190000" />
-      <workItem from="1700804872387" duration="2712000" />
+      <workItem from="1700804872387" duration="3347000" />
     </task>
     <servers />
   </component>
