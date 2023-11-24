@@ -6,8 +6,7 @@ description: "be (생각) 먼저 성공한 개발자가 되고 do (행동) 성�
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <div class="post-content-preview"  style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-        </div>
+        <img class="post-content-preview"  src="{{ site.baseurl }}/{% if post.header-img %}{{ post.header-img }}{% else %}{{ post.header-img }}{% endif %}">
         <h2 class="post-title">
             {{ post.title }}
         </h2>
