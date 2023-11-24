@@ -1337,10 +1337,10 @@ code, kbd, pre, samp {
     bottom: 0;
     width: 80%;
     height: 200px;
-    cursor : pointer
 }
 .post-content-bg:hover {
     opacity: 0.3;
+    cursor : pointer;
 }
 
 .section-heading {
