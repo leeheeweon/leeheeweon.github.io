@@ -59,7 +59,7 @@ tags:
 
 code로 작업 할 경우
 
-~~~git
+~~~yaml
 $ git checkout develop
 Switched to branch 'develop'
 $ git merge --no-ff myfeature
@@ -87,7 +87,7 @@ Release 브랜치에서 기능을 점검하며 발견한 버그 수정 사항은
 
 ### release 브랜치 만들기
 
-~~~git
+~~~yaml
 $ git checkout -b release-1.2 develop
 Switched to a new branch "release-1.2"
 $ ./bump-version.sh 1.2
@@ -99,7 +99,7 @@ $ git commit -a -m "Bumped version number to 1.2"
 
 ### release 브랜치 종료와 merge
 
-~~~git
+~~~yaml
 $ git checkout master
 Switched to branch 'master'
 $ git merge --no-ff release-1.2
@@ -108,7 +108,7 @@ Merge made by recursive.
 $ git tag -a 1.2
 ~~~
 
-~~~git
+~~~yaml
 $ git checkout develop
 Switched to branch 'develop'
 $ git merge --no-ff release-1.2
@@ -116,7 +116,7 @@ Merge made by recursive.
 (Summary of changes)
 ~~~
 
-~~~git
+~~~yaml
 $ git branch -d release-1.2
 Deleted branch release-1.2 (was ff452fe).
 ~~~
@@ -132,7 +132,7 @@ Deleted branch release-1.2 (was ff452fe).
 
 ### hotfix 브랜치 만들기
 
-~~~git
+~~~yaml
 $ git checkout -b hotfix-1.2.1 master
 Switched to a new branch "hotfix-1.2.1"
 $ ./bump-version.sh 1.2.1
@@ -142,7 +142,7 @@ $ git commit -a -m "Bumped version number to 1.2.1"
 1 files changed, 1 insertions(+), 1 deletions(-)
 ~~~
 
-~~~git
+~~~yaml
 $ git commit -m "Fixed severe production problem"
 [hotfix-1.2.1 abbe5d6] Fixed severe production problem
 5 files changed, 32 insertions(+), 17 deletions(-)
@@ -150,7 +150,7 @@ $ git commit -m "Fixed severe production problem"
 
 ### hotfix 브랜치 종료와 merge
 
-~~~git
+~~~yaml
 $ git checkout master
 Switched to branch 'master'
 $ git merge --no-ff hotfix-1.2.1
@@ -159,7 +159,7 @@ Merge made by recursive.
 $ git tag -a 1.2.1
 ~~~
 
-~~~git
+~~~yaml
 $ git checkout develop
 Switched to branch 'develop'
 $ git merge --no-ff hotfix-1.2.1
