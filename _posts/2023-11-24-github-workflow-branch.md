@@ -7,7 +7,7 @@ author: Warner
 header-img: img/bg/post-bg-github-cup.jpg
 catalog: true
 tags:
-  - Kubernetes
+  - Github
 ---
 
 ## 4가지 브랜치
