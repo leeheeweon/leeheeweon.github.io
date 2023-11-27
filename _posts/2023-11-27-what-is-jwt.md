@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JWT - JSON Web Token
-subtitle: branch
+subtitle: JWT 사용을 위한 개념 정리
 date: 2023-11-27
 author: Warner
 header-img: img/bg/post-bg-jwt.png
