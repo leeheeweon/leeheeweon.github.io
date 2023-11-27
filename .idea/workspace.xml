@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-11-27-what-is-jwt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-jwt.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-08-25-object1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-08-25-object1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-08-30-object2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-08-30-object2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-08-31-object3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-08-31-object3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-09-01-object4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-09-01-object4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-09-02-object5.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-09-02-object5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-12-07-agile.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-12-07-agile.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/2021-08-25/object1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/img/post/2021/2021-08-25/object1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/2021-08-30/object2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/post/2021/2021-08-30/object2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/2021-08-31/object3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/post/2021/2021-08-31/object3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/2021-09-01/object4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/post/2021/2021-09-01/object4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/2021-09-02/object5.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/img/post/2021/2021-09-02/object5.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post/2021-12-07/agile.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/post/2021/2021-12-07/agile.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-27-what-is-jwt.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-27-what-is-jwt.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +93,7 @@
       <workItem from="1700609691073" duration="3056000" />
       <workItem from="1700640121576" duration="2190000" />
       <workItem from="1700804872387" duration="6469000" />
-      <workItem from="1701043217216" duration="4056000" />
+      <workItem from="1701043217216" duration="4206000" />
     </task>
     <servers />
   </component>

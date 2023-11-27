@@ -85,11 +85,11 @@ xxxxx.yyyyy.zzzzz
 
 시그니처 예시
 
-~~~json
+~~~js
 HMACSHA256(
-base64UrlEncode(header) + "." +
-base64UrlEncode(payload),
-secret)
+  base64UrlEncode(header) + "." +
+  base64UrlEncode(payload),
+  secret)
 ~~~
 
 ## JWT의 Access Token / Refresh Token
