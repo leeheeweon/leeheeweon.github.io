@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="" />
+    <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2023-11-28-what-is-variable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-11-28/create-variable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-11-28/insert-variable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-11-28/read-variable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-11-28/size-variable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-11-28/typeA-variable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-11-28/update-variable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-11-28/variable-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-27-what-is-java.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-28-what-is-java.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +103,7 @@
       <workItem from="1700640121576" duration="2190000" />
       <workItem from="1700804872387" duration="6469000" />
       <workItem from="1701043217216" duration="4924000" />
-      <workItem from="1701130256271" duration="3028000" />
+      <workItem from="1701130256271" duration="6661000" />
     </task>
     <servers />
   </component>
