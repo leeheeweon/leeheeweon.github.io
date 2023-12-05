@@ -5,7 +5,7 @@ header-img: img/bg/post-bg-index.jpg
 email: ggoddii@naver.com
 description: "be (생각) 먼저 성공한 개발자가 되고 do (행동) 성공한 개발자처럼 행동하면 have (결과) 얻을것이다."
 keyword: "워너, Warner, 개발자블로그, Java"
-url: "https://leeheeweon.github.io/"          # your host, for absolute URL
+url: "https://leeheeweon.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/leeheeweon/leeheeweon.github-io.git" # you code repository
 
