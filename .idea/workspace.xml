@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="" />
+    <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2023-12-06-what-is-array.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-06/Array.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-06/Array2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-06/Array3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-06/Array4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-06/DoubleArray.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Study/leeheeweon.github.io/img/bg",
+    "last_opened_file_path": "D:/Study/leeheeweon.github.io/_posts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,8 +56,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Study\leeheeweon.github.io\img\bg" />
       <recent name="D:\Study\leeheeweon.github.io\_posts" />
+      <recent name="D:\Study\leeheeweon.github.io\img\bg" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-24" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-19" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-20" />
@@ -98,7 +106,8 @@
       <workItem from="1701409291655" duration="3130000" />
       <workItem from="1701646933378" duration="5119000" />
       <workItem from="1701735510638" duration="5799000" />
-      <workItem from="1701764176026" duration="250000" />
+      <workItem from="1701764176026" duration="1501000" />
+      <workItem from="1701820271153" duration="5125000" />
     </task>
     <servers />
   </component>
