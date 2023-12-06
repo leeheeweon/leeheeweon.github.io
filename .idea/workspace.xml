@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-12-06-what-is-array.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-06/Array.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-06/Array2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-06/Array3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-06/Array4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-06/DoubleArray.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +101,7 @@
       <workItem from="1701646933378" duration="5119000" />
       <workItem from="1701735510638" duration="5799000" />
       <workItem from="1701764176026" duration="1501000" />
-      <workItem from="1701820271153" duration="5125000" />
+      <workItem from="1701820271153" duration="5721000" />
     </task>
     <servers />
   </component>
