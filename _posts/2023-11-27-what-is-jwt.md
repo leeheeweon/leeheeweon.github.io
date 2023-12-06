@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JWT - JSON Web Token
+title: JWT - JSON Web Token (jwt란?)
 subtitle: JWT 사용을 위한 개념 정리
 date: 2023-11-27
 author: Warner

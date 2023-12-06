@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java - What is Variable? (변수란 무엇인가?)
+title: Java - What is Variable? (변수란?)
 subtitle: 김영한님의 Java 강의로 기초다지기 - 변수란?
 date: 2023-11-28
 author: Warner

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java - What is Java? (자바란 무엇인가?)
+title: Java - What is Java? (자바란?)
 subtitle: 김영한님의 Java 강의로 기초다지기 - 자바란?  
 date: 2023-11-28
 author: Warner
