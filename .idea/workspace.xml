@@ -5,11 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-12-08-what-is-class.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-08/class1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-08/class2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-08/class3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-12-08-what-is-primitive-and-reference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-blocks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-box.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-compare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-conditional.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-frame.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-loop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-method.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-operator.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-point.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-variable.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-28-what-is-variable.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-11-28-what-is-variable.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-01-what-is-conditional-statements.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-01-what-is-conditional-statements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-01-what-is-operator.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-01-what-is-operator.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-04-what-is-loop.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-04-what-is-loop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-05-what-is-codeblock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-05-what-is-codeblock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-05-what-is-typecasting.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-05-what-is-typecasting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-06-what-is-array.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-06-what-is-array.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-07-what-is-method.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-07-what-is-method.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-08-what-is-class.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-08-what-is-class.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,25 +53,25 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Study/leeheeweon.github.io/_posts&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Study/leeheeweon.github.io/img/bg",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Study\leeheeweon.github.io\_posts" />
       <recent name="D:\Study\leeheeweon.github.io\img\bg" />
+      <recent name="D:\Study\leeheeweon.github.io\_posts" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-24" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-19" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-20" />
@@ -111,7 +127,7 @@
       <workItem from="1701905721274" duration="2243000" />
       <workItem from="1701914749542" duration="46000" />
       <workItem from="1701915002545" duration="4627000" />
-      <workItem from="1701993778602" duration="6012000" />
+      <workItem from="1701993778602" duration="15060000" />
     </task>
     <servers />
   </component>

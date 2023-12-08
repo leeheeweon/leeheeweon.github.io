@@ -4,7 +4,7 @@ title: Java - What is Array? (배열이란?)
 subtitle: 김영한님의 Java 강의로 기초다지기 - 배열이란?
 date: 2023-12-06
 author: Warner
-header-img: img/bg/post-bg-java.jpg
+header-img: img/bg/post-bg-box.jpeg
 catalog: true
 tags:
   - Java

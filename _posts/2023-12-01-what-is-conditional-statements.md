@@ -4,7 +4,7 @@ title: Java - What is Conditional Statements? (조건문이란?)
 subtitle: 김영한님의 Java 강의로 기초다지기 - 조건문이란?
 date: 2023-12-01
 author: Warner
-header-img: img/bg/post-bg-java.jpg
+header-img: img/bg/post-bg-conditional.png
 catalog: true
 tags:
   - Java

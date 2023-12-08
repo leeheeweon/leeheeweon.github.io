@@ -4,7 +4,7 @@ title: Java - What is Class? (클래스란?)
 subtitle: 김영한님의 Java 강의로 기초다지기 - 클래스란?
 date: 2023-12-08
 author: Warner
-header-img: img/bg/post-bg-java.jpg
+header-img: img/bg/post-bg-frame.jpg
 catalog: true
 tags:
   - Java
