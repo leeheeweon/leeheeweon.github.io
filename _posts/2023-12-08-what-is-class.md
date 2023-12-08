@@ -18,8 +18,8 @@ tags:
 
 ~~~java
 String[]studentNames={"학생1","학생3","학생4","학생5"};
-        int[]studentAges={15,17,10,16};
-        int[]studentGrades={90,100,80,50};
+int[]studentAges={15,17,10,16};
+int[]studentGrades={90,100,80,50};
 ~~~
 
 한 학생의 데이터가 3개의 배열에 나누어져 있기 때문에 3개의 배열을 각각 변경해야 한다.
