@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2023-12-07-what-is-method.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-07-what-is-method.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-12-08-what-is-class.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-08/class1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-08/class2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-08/class3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +110,8 @@
       <workItem from="1701841438912" duration="287000" />
       <workItem from="1701905721274" duration="2243000" />
       <workItem from="1701914749542" duration="46000" />
-      <workItem from="1701915002545" duration="3997000" />
+      <workItem from="1701915002545" duration="4627000" />
+      <workItem from="1701993778602" duration="6012000" />
     </task>
     <servers />
   </component>
