@@ -4,7 +4,7 @@ title: Java - What is OOP(Object-Oriented-Programing)? (객체 지향 프로그�
 subtitle: 김영한님의 Java 강의로 기초다지기 - 객체 지향 프로그래밍이란?
 date: 2023-12-11
 author: Warner
-header-img: img/bg/post-bg-point.jpg
+header-img: img/bg/post-bg-oop.jpg
 catalog: true
 tags:
   - Java

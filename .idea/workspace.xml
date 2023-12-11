@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-12-11-what-is-primitive-and-reference.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-11/object1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-11/object2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-oop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-11-what-is-primitive-and-reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-11-what-is-primitive-and-reference.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Study/leeheeweon.github.io/_posts",
+    "last_opened_file_path": "D:/Study/leeheeweon.github.io/img/bg",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,8 +51,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Study\leeheeweon.github.io\_posts" />
       <recent name="D:\Study\leeheeweon.github.io\img\bg" />
+      <recent name="D:\Study\leeheeweon.github.io\_posts" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-24" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-19" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-20" />
@@ -111,7 +109,7 @@
       <workItem from="1701914749542" duration="46000" />
       <workItem from="1701915002545" duration="4627000" />
       <workItem from="1701993778602" duration="16361000" />
-      <workItem from="1702253016869" duration="6565000" />
+      <workItem from="1702253016869" duration="6913000" />
     </task>
     <servers />
   </component>
