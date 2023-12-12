@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java - What is Class? (클래스란?)
+title: Java - 클래스는 무엇인가? 초보자를 위한 이해 가이드
 subtitle: 김영한님의 Java 강의로 기초다지기 - 클래스란?
 date: 2023-12-08
 author: Warner

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java - What is Type casting? (형변환이란?)
+title: Java - 형 변환은 무엇인가? 초보자를 위한 이해 가이드
 subtitle: 김영한님의 Java 강의로 기초다지기 - 형변환이란?
 date: 2023-12-05
 author: Warner

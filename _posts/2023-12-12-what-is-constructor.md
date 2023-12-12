@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java - What is Constructor? (생성자란?)
+title: Java - 생성자는 무엇인가? 초보자를 위한 이해 가이드
 subtitle: 김영한님의 Java 강의로 기초다지기 - 생성자란?
 date: 2023-12-12
 author: Warner

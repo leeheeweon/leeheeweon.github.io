@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java - What is Loop? (반복문이란?)
+title: Java - 반복문은 무엇인가? 초보자를 위한 이해 가이드
 subtitle: 김영한님의 Java 강의로 기초다지기 - 반복문이란?
 date: 2023-12-04
 author: Warner
