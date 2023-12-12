@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java - 패키지는 무엇인가? 초보자를 위한 이해 가이드
+title: Java - 패키지는 무엇인가?
 subtitle: 김영한님의 Java 강의로 기초다지기 - 패키지란?
 date: 2023-12-12
 author: Warner

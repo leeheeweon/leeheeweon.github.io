@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JWT - JSON Web Token은 무엇인가? 초보자를 위한 이해 가이드
+title: JWT - JSON Web Token은 무엇인가?
 subtitle: JWT 사용을 위한 개념 정리
 date: 2023-11-27
 author: Warner
