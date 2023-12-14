@@ -2,7 +2,7 @@
 layout: post
 title: Java - 접근제어자란 무엇인가?
 subtitle: 김영한님의 Java 강의로 기초다지기 - 접근제어자란?
-date: 2023-12-12
+date: 2023-12-13
 author: Warner
 header-img: img/bg/post-bg-access.jpg
 catalog: true
