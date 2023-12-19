@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2023-12-19-what-is-final.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-19/final1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-19/final2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-12-14-what-is-memory.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-14-what-is-memory.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +131,8 @@
       <workItem from="1702511135217" duration="2038000" />
       <workItem from="1702520790289" duration="652000" />
       <workItem from="1702540212969" duration="3044000" />
-      <workItem from="1702598452294" duration="4601000" />
+      <workItem from="1702598452294" duration="7688000" />
+      <workItem from="1702969608781" duration="3543000" />
     </task>
     <servers />
   </component>
