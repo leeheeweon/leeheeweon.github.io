@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java - final이란?
+title: Java - 상속이란?
 subtitle: 김영한님의 Java 강의로 기초다지기 - 상속이란?
 date: 2023-12-20
 author: Warner
@@ -12,7 +12,7 @@ tags:
 
 ## 상속
 
-![extends1.png](..%2Fimg%2Fpost%2F2023-12-20%2Fextends1.png)
+![extends1.png](/img/post/2023-12-20/extends1.png)
 
 전기차(`ElectricCar`)와 가솔린차(`GasCar`)를 만들었다. 전기차는 이동(`move()`), 충전(`charge()`) 기능이 있고, 가솔린차는 이동(`move()`), 주유(`fillUp()`)
 기능이 있다.
@@ -31,7 +31,7 @@ tags:
 - **부모 클래스 (슈퍼 클래스)** : 상속을 통해 자신의 필드와 메서드를 다른 클래스에 제공하는 클래스
 - **자식 클래스 (서브 클래스)** : 부모 클래스로부터 필드와 메서드를 상속받는 클래스
 
-![extends2.png](..%2Fimg%2Fpost%2F2023-12-20%2Fextends2.png)
+![extends2.png](/img/post/2023-12-20/extends2.png)
 전기차와 가솔린차가 `Car`를 상속 받은 덕분에 `electricCar.move()` , `gasCar.move()` 를 사용할 수 있다.
 
 - 자식이 부모의 기능을 물려 받아서 사용할 수 있다.
@@ -39,7 +39,7 @@ tags:
 
 **단일 상속**
 참고로 자바는 다중 상속을 지원하지 않는다. 그래서 `extend` 대상은 하나만 선택할 수 있다.
-![extends3.png](..%2Fimg%2Fpost%2F2023-12-20%2Fextends3.png)
+![extends3.png](/img/post/2023-12-20/extends3.png)
 
 다중 상속 허용시 발생하는 문제
 
@@ -55,13 +55,13 @@ tags:
 ElectricCar electricCar=new ElectricCar(); // Car 상속
 ~~~
 
-![extends4.png](..%2Fimg%2Fpost%2F2023-12-20%2Fextends4.png)
+![extends4.png](/img/post/2023-12-20/extends4.png)
 
 - `new ElectricCar()`를 호출하면 `ElectricCar` 뿐만 아니라 상속 관계에 있는 `Car` 까지 함께 포함해서 인스턴스를 생성
 - 참조값은 `x001`로 하나이지만 실제로 그안에서는 `Car`, `ElectricCar` 라는 두가지 클래스 정보가 공존
 - 외부에서 볼때는 하나의 인스턴스를 생성하는 것 같지만 내부에서는 부모와 자식이 모두 생성되고 공간도 구분된다.
 
-![extends5.png](..%2Fimg%2Fpost%2F2023-12-20%2Fextends5.png)
+![extends5.png](/img/post/2023-12-20/extends5.png)
 
 - `electricCar.charge()`를 호출하면 참조값을 확인해서 `x001.charge()`를 호출한다.
 - `x001` 내부에 부모와 자식이 모두 존재
@@ -69,7 +69,7 @@ ElectricCar electricCar=new ElectricCar(); // Car 상속
 - **이때는 호출하는 변수의 타입(클래스)을 기준으로 선택한다.**
 - `electricCar` 변수의 타입이 `ElectricCar` 이므로 인스턴스 내부에 같은 타입인 `ElectricCar`를 통해서 `charge()`를 호출
 
-![extends6.png](..%2Fimg%2Fpost%2F2023-12-20%2Fextends6.png)
+![extends6.png](/img/post/2023-12-20/extends6.png)
 
 - `electricCar.move()`를 호출하면 먼저 `x001` 참조로 이동한다.
 - 내부에는 `Car`, `ElectricCar` 두가지 타입이 있다.
@@ -99,10 +99,10 @@ ElectricCar electricCar=new ElectricCar(); // Car 상속
 - 컴파일러는 이 애노테이션을 보고 메서드가 정확히 오버라이드 되었는지 확인한다.
 - 오버라이딩 조건을 만족시키지 않으면 컴파일 에러를 발생시킨다.
 
-![extends7.png](..%2Fimg%2Fpost%2F2023-12-20%2Fextends7.png)
+![extends7.png](/img/post/2023-12-20/extends7.png)
 Car의 move() 메서드를 ElectricCar에서 오버라이딩 했다.
 
-![extends8.png](..%2Fimg%2Fpost%2F2023-12-20%2Fextends8.png)
+![extends8.png](/img/post/2023-12-20/extends8.png)
 
 1. electricCar.move() 를 호출한다.
 2. 호출한 electricCar 의 타입은 ElectricCar 이다. 따라서 인스턴스 내부의 ElectricCar 타입에서 시작한다.
