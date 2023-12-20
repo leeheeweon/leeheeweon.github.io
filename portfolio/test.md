@@ -1,15 +1,3 @@
----
-layout: post
-title: 좋은 객체지향 설계의 SOLID 5가지 원칙
-subtitle: SOLID
-date: 2021-12-05
-author: Warner
-header-img: img/bg/post-bg-watch.jpg
-catalog: true
-tags:
-  - Java
----
-
 ## SRP(Single Responsibility Principle) 단일 책임 원칙
 - 한 클래스는 하나의 책임만 가져야 한다.
 
