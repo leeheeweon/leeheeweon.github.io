@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-12-19-what-is-final.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-19/final1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-19/final2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-12-20-what-is-inheritance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-inheritance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-20/extends1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-20/extends2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-20/extends3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-20/extends4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-20/extends5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-20/extends6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-20/extends7.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,25 +54,25 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Study/leeheeweon.github.io/_posts&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Study/leeheeweon.github.io/img/bg",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Study\leeheeweon.github.io\_posts" />
       <recent name="D:\Study\leeheeweon.github.io\img\bg" />
+      <recent name="D:\Study\leeheeweon.github.io\_posts" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-24" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-19" />
       <recent name="D:\Study\leeheeweon.github.io\img\post\2023-11-20" />
@@ -132,7 +138,8 @@
       <workItem from="1702520790289" duration="652000" />
       <workItem from="1702540212969" duration="3044000" />
       <workItem from="1702598452294" duration="7688000" />
-      <workItem from="1702969608781" duration="3543000" />
+      <workItem from="1702969608781" duration="4604000" />
+      <workItem from="1703030886310" duration="5073000" />
     </task>
     <servers />
   </component>
