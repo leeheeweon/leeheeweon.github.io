@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4f1fac-7587-47db-9f8d-e69a2178dea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-12-21-what-is-polymorphism.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg/post-bg-genetic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post/2023-12-21/poly9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-21-what-is-polymorphism.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-21-what-is-polymorphism.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +140,7 @@
       <workItem from="1702598452294" duration="7688000" />
       <workItem from="1702969608781" duration="4604000" />
       <workItem from="1703030886310" duration="17475000" />
-      <workItem from="1703117440045" duration="3857000" />
+      <workItem from="1703117440045" duration="12060000" />
     </task>
     <servers />
   </component>
