@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Java - Object 클래스란?
-subtitle: 김영한님의 Java 강의로 기초다지기 - Object 클래스란??
+subtitle: 김영한님의 Java 강의로 기초다지기 - Object 클래스란?
 date: 2024-04-17
 author: Warner
-header-img: img/bg/post-bg-genetic.jpg
+header-img: img/bg/post-bg-object1.jpg
 catalog: true
 tags:
   - Java
