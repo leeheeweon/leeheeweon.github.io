@@ -17,7 +17,7 @@ tags:
 
 이런 문제를 어떻게 깔끔하게 해결할 수 있을까?
 
-![method.png](/img/post/2023-12-07/method.png)
+![method.png](/img/post/2023/2023-12-07/method.png)
 
 **함수 정의**
 add(a, b) = a + b

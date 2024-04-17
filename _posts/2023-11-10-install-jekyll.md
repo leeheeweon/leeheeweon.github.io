@@ -27,9 +27,9 @@ Jekyll 은 Ruby의 패키지 매니저인 Gem 을 사용해서 설치할 수 있
 그리고 이 Gem 을 사용하기 위해선 Ruby 를 우선 설치해야 한다.
 
 Ruby 는 RubyInstaller 에서 다운 가능하다.
-![ruby1.png](/img/post/2023-11-10/ruby1.png)
+![ruby1.png](/img/post/2023/2023-11-10/ruby1.png)
 
-![ruby2.png](/img/post/2023-11-10/ruby2.png)
+![ruby2.png](/img/post/2023/2023-11-10/ruby2.png)
 
 cmd 창에 아래 명령어로 jekyll 설치 및 버전 확인
 ~~~markdown
@@ -45,7 +45,7 @@ jekyll -v
 [Git](https://git-scm.com/)
 
 ## Repository 클론받기 
-![clone1.png](/img/post/2023-11-10/clone1.png)
+![clone1.png](/img/post/2023/2023-11-10/clone1.png)
 
 
 저장을 원하는 위치로 이동해서 마우스 우클릭 gitbash 를 열어준다.
@@ -54,6 +54,6 @@ git clone 복사된 ssh 입력
 ~~~markdown
  git clone git@github.com:leeheeweon/leeheeweon.github.io.git
 ~~~
-![clone2.png](/img/post/2023-11-10/clone2.png)
+![clone2.png](/img/post/2023/2023-11-10/clone2.png)
 
 3편에서 계속 

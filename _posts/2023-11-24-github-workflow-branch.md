@@ -13,7 +13,7 @@ tags:
 ## 4가지 브랜치
 
 - "A successful Git branching model" 이란 컬럼에 소개된 4가지 브랜치 모델
-  ![git-model-all.png](/img/post/2023-11-24/git-model-all.png)
+  ![git-model-all.png](/img/post/2023/2023-11-24/git-model-all.png)
 
 ## 메인 브랜치 (Main branch)
 
@@ -29,7 +29,7 @@ tags:
 - 평소 이 브랜치를 기반으로 개발 진행
 - 모든 기능이 정상적으로 동작할 수 있는 안정적인 상태를 유지
 - 배포 가능한 상태라면 'master' 브랜치에 merge
-  ![main-branches.png](/img/post/2023-11-24/main-branches.png)
+  ![main-branches.png](/img/post/2023/2023-11-24/main-branches.png)
 
 ## 피쳐 브랜치 (Feature branch)
 
@@ -41,21 +41,21 @@ tags:
 ### 피쳐 브랜치 사용법
 
 1. 이슈 생성
-   ![issue.png](/img/post/2023-11-24/issue.png)
+   ![issue.png](/img/post/2023/2023-11-24/issue.png)
 2. feature/#2-issue 이슈 넘버 포함시켜 피쳐 브랜치 생성
-   ![createbranch.png](/img/post/2023-11-24/createbranch.png)
+   ![createbranch.png](/img/post/2023/2023-11-24/createbranch.png)
 3. 기능 개발
-   ![add.png](/img/post/2023-11-24/add.png)
+   ![add.png](/img/post/2023/2023-11-24/add.png)
 4. 커밋 && 커밋 메세지 작성
-   ![commit.png](/img/post/2023-11-24/commit.png)
+   ![commit.png](/img/post/2023/2023-11-24/commit.png)
 5. push
-   ![push.png](/img/post/2023-11-24/push.png)
+   ![push.png](/img/post/2023/2023-11-24/push.png)
 6. pull request
-   ![pull-request.png](/img/post/2023-11-24/pull-request.png)
+   ![pull-request.png](/img/post/2023/2023-11-24/pull-request.png)
 7. code review
-   ![code-review.png](/img/post/2023-11-24/code-review.png)
+   ![code-review.png](/img/post/2023/2023-11-24/code-review.png)
 8. merge
-   ![merge.png](/img/post/2023-11-24/merge.png)
+   ![merge.png](/img/post/2023/2023-11-24/merge.png)
 
 code로 작업 할 경우
 
@@ -70,7 +70,7 @@ Deleted branch myfeature (was 05e9557).
 $ git push origin develop
 ~~~
 
-![merge-without-ff.png](/img/post/2023-11-24/merge-without-ff.png)
+![merge-without-ff.png](/img/post/2023/2023-11-24/merge-without-ff.png)
 
 ## 릴리즈 브랜치 (Release branch)
 
@@ -128,7 +128,7 @@ Deleted branch release-1.2 (was ff452fe).
 - 브랜치 이름은 hotfix-*
 
 배포한 버전에 긴급하게 수정을 해야 할 필요가 있을 경우, 'master' 브랜치에서 분기하는 브랜치입니다. 관례적으로 브랜치 이름 앞에 'hotfix-'를 붙인다.
-![hotfix-branches.png](/img/post/2023-11-24/hotfix-branches.png)
+![hotfix-branches.png](/img/post/2023/2023-11-24/hotfix-branches.png)
 
 ### hotfix 브랜치 만들기
 

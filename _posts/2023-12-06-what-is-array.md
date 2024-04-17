@@ -22,7 +22,7 @@ students=new int[5]; //2. 배열 생성
 ~~~
 
 **1. 배열 변수 선언**
-![Array.png](/img/post/2023-12-06/Array.png)
+![Array.png](/img/post/2023/2023-12-06/Array.png)
 
 - 배열을 사용하려면 int[] students; 와 같이 배열 변수를 선언해야 한다.
 - 일반적인 변수와 차이점은 int[] 처럼 타입 다음에 대괄호 ([])가 들어간다는 점이다.
@@ -31,7 +31,7 @@ students=new int[5]; //2. 배열 생성
     - int[] students와 같은 배열 변수에는 배열을 담을 수 있다.(배열 변수에는 10, 20 같은 값이 아니라 배열이라는 것을 담을 수 있다.)
 
 **2. 배열 생성**
-![Array2.png](/img/post/2023-12-06/Array2.png)
+![Array2.png](/img/post/2023/2023-12-06/Array2.png)
 
 - 배열을 사용하려면 배열을 생성해야 한다.
 - new int[5]라고 입력하면 오른쪽 그림과 같이 총 5개의 int형 변수가 만들어진다.
@@ -43,7 +43,7 @@ students=new int[5]; //2. 배열 생성
 - 숫자는0, boolean은 false, String은 null(없다는 뜻이다.)로 초기화 된다.
 
 **3. 배열 참조값 보관**
-![Array3.png](/img/post/2023-12-06/Array3.png)
+![Array3.png](/img/post/2023/2023-12-06/Array3.png)
 
 - new int[5]로 배열을 생성하면 배열의 크기만큼 메모리를 확보한다.
 - 배열을 생성하고 나면 자바는 메모리 어딘가에 있는 이 배열에 접근할 수 있는 참조값(주소)(x001)을 반환한다.
@@ -55,7 +55,7 @@ students=new int[5]; //2. 배열 생성
 **인덱스**
 배열은 변수와 사용법이 비슷한데, 차이점이 있다면 다음과 같이 [] 사이에 숫자 번호를 넣어주면 된다.
 배열의 위치를 나타내는 숫자를 인덱스(index)라 한다.
-![Array4.png](/img/post/2023-12-06/Array4.png)
+![Array4.png](/img/post/2023/2023-12-06/Array4.png)
 
 - 배열은 0부터 시작한다.
 
@@ -102,7 +102,7 @@ System.out.println("학생1 점수: "+90);
 
 지금까지 학습한 배열은 단순히 순서대로 나열되어 있었다. 이것을 1차원 배열이라 한다.\
 이번에 학습할 2차원 배열은 이름 그대로 하나의 차원이 추가된다. 2차원 배열은 행과 열로 구성된다.
-![DoubleArray.png](/img/post/2023-12-06/DoubleArray.png)
+![DoubleArray.png](/img/post/2023/2023-12-06/DoubleArray.png)
 
 2차원 배열은 int[][] arr = new int[2][3]와 같이 선언하고 생성한다. 그리고 arr[1][2]와 같이 사용하는데, 먼저 행 번호를 찾고, 그 다음에 열 번호를 찾으면 된다.
 

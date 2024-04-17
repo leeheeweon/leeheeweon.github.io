@@ -16,7 +16,7 @@ tags:
 
 ### 변수 선언
 
-![create-variable.png](/img/post/2023-11-28/create-variable.png)
+![create-variable.png](/img/post/2023/2023-11-28/create-variable.png)
 
 int a
 
@@ -26,7 +26,7 @@ int a
 
 ### 변수에 값 대입
 
-![insert-variable.png](/img/post/2023-11-28/insert-variable.png)
+![insert-variable.png](/img/post/2023/2023-11-28/insert-variable.png)
 
 a=10
 
@@ -36,7 +36,7 @@ a=10
 
 ### 변수 값 읽기
 
-![read-variable.png](/img/post/2023-11-28/read-variable.png)
+![read-variable.png](/img/post/2023/2023-11-28/read-variable.png)
 
 System.out.println(a)
 
@@ -48,7 +48,7 @@ System.out.println(a)
 
 ### 변수 값 변경
 
-![update-variable.png](/img/post/2023-11-28/update-variable.png)
+![update-variable.png](/img/post/2023/2023-11-28/update-variable.png)
 
 ~~~java
         a=10;                   //변수 초기화: a(10) //1. 변수 a에 10을 저장한다.
@@ -62,7 +62,7 @@ System.out.println(a)
 ### 변수 타입
 
 변수는 데이터를 다루는 종류에 따라 다양한 형식이 존재한다.
-![typeA-variable.png](/img/post/2023-11-28/typeA-variable.png)
+![typeA-variable.png](/img/post/2023/2023-11-28/typeA-variable.png)
 
 - int : 정수를 다룬다. 예) 1, 100, 1000
 - double : 실수를 다룬다. 예) 0.2, 1.5, 100.121
@@ -72,7 +72,7 @@ System.out.println(a)
 
 자신의 타임에 맞는 데이터 사용\
 **지정한 타입에 맞는값을 사용하지 않으면 컴파일 오류가 발생**
-![variable-error.png](/img/post/2023-11-28/variable-error.png)
+![variable-error.png](/img/post/2023/2023-11-28/variable-error.png)
 
 ### 리터럴
 
@@ -80,7 +80,7 @@ System.out.println(a)
 
 ### 변수와 메모리 공간 크기
 
-![size-variable.png](/img/post/2023-11-28/size-variable.png)
+![size-variable.png](/img/post/2023/2023-11-28/size-variable.png)
 
 - 정수형
     - byte : -128 ~ 127 (1byte, 2⁸)

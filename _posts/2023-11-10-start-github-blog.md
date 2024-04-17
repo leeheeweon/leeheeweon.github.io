@@ -39,23 +39,23 @@ GitHub Blog가 가장 개발자 스럽다고 느꼈다.
 17. 블로그 Google 에 노출시키기
 
 ## 회원가입 및 로그인 하기 
-![github1.png](/img/post/2023-11-10/github1.png)
+![github1.png](/img/post/2023/2023-11-10/github1.png)
 
 ## 레포지토리 생성
-![github2.png](/img/post/2023-11-10/github2.png)
+![github2.png](/img/post/2023/2023-11-10/github2.png)
 
 ## 레포지토리 이름 
-![github3.png](/img/post/2023-11-10/github3.png)
+![github3.png](/img/post/2023/2023-11-10/github3.png)
 **계정명.github.io 로 할것!**
 
 ## GitHub Pages 설정
-![github4.png](/img/post/2023-11-10/github4.png)
-![github5.png](/img/post/2023-11-10/github5.png)
+![github4.png](/img/post/2023/2023-11-10/github4.png)
+![github5.png](/img/post/2023/2023-11-10/github5.png)
 
 **Settings -> Pages -> branch선택 -> save클릭**
 
 ## GitHub Page 확인하기
-![github6.png](/img/post/2023-11-10/github6.png)
+![github6.png](/img/post/2023/2023-11-10/github6.png)
 
 GitHub Blog의 기본 세팅이 끝났습니다.
 

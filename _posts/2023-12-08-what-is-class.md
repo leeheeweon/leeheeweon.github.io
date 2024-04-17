@@ -67,14 +67,14 @@ class 키워드를 사용해서 학생 클래스(Student)를 정의한다. 학�
 여기서는 학생(Student) 클래스를 기반으로 학생1(student1), 학생2(student2) 객체 또는 인스턴스를 만들었다.
 
 **1. 변수 선언**
-![class1.png](/img/post/2023-12-08/class1.png)
+![class1.png](/img/post/2023/2023-12-08/class1.png)
 
 - Student student1
     - Student 타입을 받을 수 있는 변수를 선언한다.
     - int 는 정수를, String은 문자를 담을 수 있듯이 Student는 Student 타입의 객체(인스턴스)를 받을 수 있다.
 
 **2. 객체 생성**
-![class2.png](/img/post/2023-12-08/class2.png)
+![class2.png](/img/post/2023/2023-12-08/class2.png)
 
 - 객체를 사용하려면 먼저 설계도인 클래스를 기반으로 객체(인스턴스)를 생성해야 한다.
 - new Student() : new 는 새로 생성한다는 뜻이다. new Student()는 Student 클래스 정보를 기반으로 새로운 객체를 생성하라는 뜻이다. 이렇게 하면 메모리에 실제 Student 객체(
@@ -83,7 +83,7 @@ class 키워드를 사용해서 학생 클래스(Student)를 정의한다. 학�
 - Student 클래스는 String name, int age, int grade 멤버 변수를 가지고 있다. 이 변수를 사용하는데 필요한 메모리 공간도 함께 확보한다.
 
 **3. 참조값 보관**
-![class3.png](/img/post/2023-12-08/class3.png)
+![class3.png](/img/post/2023/2023-12-08/class3.png)
 
 - 객체를 생성하면 자바는 메모리 어딘가에 있는 이 객체에 접근할 수 있는 참조값(주소)(x001)을 반환한다.
 - new 키워드를 통해 객체가 생성되고 나면 참조값을 반환한다. 앞서 선언한 변수인 Student student1에 생성된 객체의 참조값(x001)을 보관한다,

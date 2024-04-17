@@ -21,7 +21,7 @@ tags:
 - 멤버 변수보다 매개변수가 코드 블록의 더 안쪽에 있기 때문에 매개변수가 우선순위를 가진다.
 - 멤버 변수에 접근하려면 앞에 this. 이라고 해주면 된다. 여기서 this 는 인스턴스 자신의 참조값을 가리킨다.
 
-![constructor1.png](/img/post/2023-12-12/constructor1.png)
+![constructor1.png](/img/post/2023/2023-12-12/constructor1.png)
 
 ## this의 생략
 

@@ -57,7 +57,7 @@ Kubernetes는 여러 개의 호스트를 하나로 묶어 Docker를 이용하기
 - 공유 디렉토리를 통하여 로그 정보를 주고받을 수 있음
 - 노드안에는 여러 개의 Pod가 배치
 
-![pod.png](/img/post/2023-11-22/pod.png)
+![pod.png](/img/post/2023/2023-11-22/pod.png)
 **ReplicaSet(리플리카 셋)**
 
 - Kubernetes 클러스터 상에서 미리 지정된 Pod를 작성하여 실행시켜 두는 장치이다.

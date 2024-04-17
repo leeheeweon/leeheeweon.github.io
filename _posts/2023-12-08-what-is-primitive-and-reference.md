@@ -74,21 +74,21 @@ Student s2=s1;
 참조형 변수에는 아직 가리키는 대상이 없다면 null 이라는 특별한 값을 넣어둘 수 있다. null은 값이 존재하지 않는, 없다는 뜻이다.
 
 **Data data = null**
-![null1.png](/img/post/2023-12-09/null1.png)
+![null1.png](/img/post/2023/2023-12-09/null1.png)
 
 Data 타입을 받을 수 있는 참조형 변수 data를 만들었다. 그리고 여기에 null 값을 할당했다. 따라서 data 변수에는 아직 가리키는 객체가 없다는 뜻이다.
 
 **data = new Data()**
-![null2.png](/img/post/2023-12-09/null2.png)
+![null2.png](/img/post/2023/2023-12-09/null2.png)
 
 이후에 새로운 Data 객체를 생성해서 그 참조값을 data 변수에 할당했다. 이제 data 변수가 참조할 객체가 존재한다.
 
 **data = null**
-![null3.png](/img/post/2023-12-09/null3.png)
+![null3.png](/img/post/2023/2023-12-09/null3.png)
 마지막에는 data에 다시 null값을 할당했다. 이렇게 하면 data 변수는 앞서 만든 Data 인스턴스를 더는 참조하지 않는다.
 
 **GC - 아무도 참조하지 않는 인스턴스의 최후**
-![null4.png](/img/post/2023-12-09/null4.png)
+![null4.png](/img/post/2023/2023-12-09/null4.png)
 
 아무도 참조하지 않는 인스턴스는 사용되지 않고 메모리 용량만 차지할 뿐이다.\
 자바는 이런 과정을 자동으로 처리해준다. 아무도 참조하지 않는 인스턴스가 있으면 JVM의 GC(가비지 컬렉션)가 더 이상 사용하지 않는 인스턴스라 판단하고 해당 인스턴스를 자동으로 메모리에서 제거해준다.

@@ -115,10 +115,10 @@ public class ValueObjectMain {
 ~~~
 
 **인스턴스 생성**
-![object1.png](/img/post/2023-12-11/object1.png)
+![object1.png](/img/post/2023/2023-12-11/object1.png)
 
 **인스턴스의 메서드 호출**
-![object2.png](/img/post/2023-12-11/object2.png)
+![object2.png](/img/post/2023/2023-12-11/object2.png)
 
 - 클래스는 속성(데이터, 멤버 변수)과 기능(메서드)을 정의할 수 있다.
 - 객체는 자신의 메서드를 통해 자신의 멤버 변수에 접근할 수 있다.

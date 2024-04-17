@@ -25,9 +25,9 @@ tags:
 
 ## 다형적 참조
 
-![poly1.png](/img/post/2023-12-21/poly1.png)
+![poly1.png](/img/post/2023/2023-12-21/poly1.png)
 
-![poly2.png](/img/post/2023-12-21/poly2.png)
+![poly2.png](/img/post/2023/2023-12-21/poly2.png)
 
 - 부모 타입의 변수가 부모 인스턴스를 참조한다.
 - `Parent parent = new Parent()`
@@ -35,7 +35,7 @@ tags:
 - 생성된 참조값을 `Parent` 타입의 변수인 `Parent`에 담아둔다
 - `parent.parentMethod()`를 호출하면 인스턴스의 `Parent` 클래스에 있는 `parentMethod()` 가 호출된다.
 
-![poly3.png](/img/post/2023-12-21/poly3.png)
+![poly3.png](/img/post/2023/2023-12-21/poly3.png)
 
 - 자식 타입의 변수가 자식 인스턴스를 참조한다.
 - `Child child = new Child()`
@@ -43,7 +43,7 @@ tags:
 - 생성된 참조값을 `Child` 타입의 변수인 `child`에 담아둔다.
 - `child.childMethod()`를 호출하면 인스턴스의 `Child` 클래스에 있는 `childMethod()`가 호출된다.
 
-![poly4.png](/img/post/2023-12-21/poly4.png)
+![poly4.png](/img/post/2023/2023-12-21/poly4.png)
 
 - 부모 타입의 변수가 자식 인스턴스를 참조한다.
 - `Parent poly = new Child()`
@@ -58,7 +58,7 @@ tags:
 - 반대로 자식 타입은 부모 타입을 담을 수 없다.
     - `Child child1 = new Parent()`: 컴파일 오류 발생
 
-![poly5.png](/img/post/2023-12-21/poly5.png)
+![poly5.png](/img/post/2023/2023-12-21/poly5.png)
 `Parent poly = new Child()` 이렇게 자식을 참조한 상황에서 `poly` 가 자식 타입인 `Child` 에 있는 `childMethod()` 를 호출하면 어떻게 될까?
 
 - 컴파일 오류 발생
@@ -68,7 +68,7 @@ tags:
 ## 다형성과 캐스팅
 
 **다운캐스팅**
-![poly6.png](/img/post/2023-12-21/poly6.png)
+![poly6.png](/img/post/2023/2023-12-21/poly6.png)
 
 **부모는 자식을 담을 수 있지만 자식은 부모를 담을 수 없다.**
 
@@ -84,7 +84,7 @@ tags:
 "캐스팅"은 영어 단어 "cast"에서 유래되었다. "cast"는 금속이나 다른 물질을 녹여서 특정한 형태나 모양으로 만드는 과정을 의미한다.
 
 **일시적 다운 캐스팅**
-![poly7.png](/img/post/2023-12-21/poly7.png)
+![poly7.png](/img/post/2023/2023-12-21/poly7.png)
 
 ~~~Java
 ((Child)poly).childMethod() //다운캐스팅을 통해 부모타입을 자식 타입으로 변환 후 기능 호출
@@ -104,10 +104,10 @@ Parent parent1=(Parent)child;
 ## 다운캐스팅과 주의점
 
 **다운캐스팅이 가능한 경우**
-![poly8.png](/img/post/2023-12-21/poly8.png)
+![poly8.png](/img/post/2023/2023-12-21/poly8.png)
 
 **다운캐스팅이 불가능한 경우**
-![poly9.png](/img/post/2023-12-21/poly9.png)
+![poly9.png](/img/post/2023/2023-12-21/poly9.png)
 
 - `new Parent()`로 부모 타입으로 객체를 생성한다.
 - 메모리 상에 자식 타입은 전혀 존재하지 않는다.
@@ -134,22 +134,22 @@ Parent parent1=(Parent)child;
 그래서 이름도 기존 기능을 덮어 새로운 기능을 재정의 한다는 뜻의 오버라이딩이다.
 
 메서드 오버라이딩의 진짜 힘은 다형성과 함께 사용할 때 나타난다.
-![poly10.png](/img/post/2023-12-21/poly10.png)
+![poly10.png](/img/post/2023/2023-12-21/poly10.png)
 
 - `Parent`, `Child` 모두 `value` 라는 같은 멤버 변수를 가지고 있다.
     - 멤버 변수는 오버라이딩 되지 않는다.
 - `Parent`, `Child` 모두 `method()` 라는 같은 메서드를 가지고 있다. `Child`에서 메서드를 오버라이딩 했다.
     - 메서드는 오버라이딩 된다.
 
-![poly11.png](/img/post/2023-12-21/poly11.png)
+![poly11.png](/img/post/2023/2023-12-21/poly11.png)
 
 - `child` 변수는 `Child` 타입이다. 따라서 `child.value`, `child.method()` 를 호출하면 인스턴스의 `Child` 타입에서 기능을 찾아서 실행한다.
 
-![poly12.png](/img/post/2023-12-21/poly12.png)
+![poly12.png](/img/post/2023/2023-12-21/poly12.png)
 
 - `parent` 변수는 `Parent` 타입이다. 따라서 `parent.value`, `parent.method()`를 호출하면 인스턴스의 `Parent` 타입에서 기능을 찾아서 실행한다.
 
-![poly13.png](/img/post/2023-12-21/poly13.png)
+![poly13.png](/img/post/2023/2023-12-21/poly13.png)
 
 - 이 부분이 중요하다.
 - `poly` 변수는 `Parent` 타입이다. 따라서 `poly.value`, `poly.method()`를 호출하면 인스턴스의 `Parent` 타입에서 기능을 찾아서 실행한다.

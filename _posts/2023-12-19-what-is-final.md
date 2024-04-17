@@ -30,7 +30,7 @@ public class FinalLocalMain {
 - `final` 을 지역 변수 선언시 바로 초기화 한 경우 이미 값이 할당되었기 때문에 값을 할당할 수 없다.
 - 매개변수에 `final`이 붙으면 메서드 내부에서 매개변수의 값을 변경할 수 없다. 따라서 메서드 호출 시점에 사용된 값이 끝까지 사용된다.
 
-![final1.png](/img/post/2023-12-19/final1.png)
+![final1.png](/img/post/2023/2023-12-19/final1.png)
 
 - `FiledInit` 과 같이 `final` 필드를 필드에서 초기화 하는 경우, 모든 인스턴스가 다음 오른쪽 그림과 같이 같은 값을 가진다.
 - 여기서는 `FieldInit` 인스턴스의 모든 `value` 값은 10이 된다.
@@ -68,5 +68,5 @@ public class FinalLocalMain {
     - `final`을 기본형 변수에 사용하면 값을 변경할 수 있다.
     - `final`을 참조형 변수에 사용하면 참조값을 변경할 수 없다.
 
-![final2.png](/img/post/2023-12-19/final2.png)
+![final2.png](/img/post/2023/2023-12-19/final2.png)
 정리하면 참조형 변수에 final 이 붙으면 참조 대상을 자체를 다른 대상으로 변경하지 못하는 것이지, 참조하는 대상의 값은 변경할 수 있다.
